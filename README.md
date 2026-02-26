@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-- 🧠 I’m currently high on you!
+- 🧠 I’m currently developing AI projects!
 - 🌱 I’m learning Artificial Intelligence and Deep Research
 - 💬 Ask me about Python, Web development, Pandas and Pytorch, Data Structures
 - 📫 How to reach me: [neelakapil15@gmail.com](mailto:neelakapil15@gmail.com) 

@@ -30,12 +30,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![Kapiln16's Stats](https://github-readme-stats.vercel.app/api?username=Kapiln16&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-![Kapiln16's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kapiln16&theme=dracula&show_icons=true&hide_border=true&layout=compact)
-
----
-
 ## 📫 Connect with Me
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Kapil%20Neela-blue?logo=linkedin)](https://linkedin.com/in/kapilneela)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-@x_opkapil-1ca0f1?logo=twitter&logoColor=white)](https://twitter.com/x_opkapil)
